@@ -1,6 +1,6 @@
 # Employee Attrition Analysis
 ## Overview
-This project analyzes employee attrition trends using SQL (MySQL) for data insights, Excel for data visualization, and PowerPoint for presenting key findings and recommendations.
+This project analyzes employee attrition trends using SQL (MySQL) for data insights, Excel for data visualization,Python for correlattion matrix(heatmap) and PowerPoint for presenting key findings and recommendations.
 
 ## Objectives
 Identify key factors influencing employee attrition.
