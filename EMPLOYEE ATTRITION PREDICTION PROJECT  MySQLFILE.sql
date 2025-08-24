@@ -43,7 +43,7 @@ WHERE attrition = 'Yes'
 GROUP BY job_satisfaction
 ORDER BY job_satisfaction;
 
-# Can we identify employees at high risk based on salary, job satisfaction, and workload?
+# Can we identify employees at high risk based on salary, job satisfaction?
 #(Since salary and workload data are missing, we use job satisfaction and department trends.)
 
 SELECT emp_no, department, job_role, age_band, job_satisfaction, attrition
